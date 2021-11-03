@@ -2,7 +2,7 @@
   "name": "project1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://BhargovJD.github.io/8-React-Project-2-FUnctional",
+  "homepage": "https://bhargovjd.github.io/8-React-Project-2-FUnctional/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
     "@testing-library/react": "^11.2.7",
